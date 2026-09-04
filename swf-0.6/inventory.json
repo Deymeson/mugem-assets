@@ -1,0 +1,1695 @@
+[
+  {
+    "id": "adamn",
+    "name": "Adamn",
+    "sha256": "24b8216cc5c196ea539ead3838b993db2029e72145b93299828bd2967405fc9a",
+    "bytes": 18386876,
+    "copies": [
+      "Adamn.swf"
+    ]
+  },
+  {
+    "id": "all_might",
+    "name": "All Might",
+    "sha256": "9b6b46e6584040ae4226d25ffdbd46c65cf169e610df732b9f2aa6e669402347",
+    "bytes": 6670239,
+    "copies": [
+      "all might.swf"
+    ]
+  },
+  {
+    "id": "asta",
+    "name": "Asta · 1",
+    "sha256": "e64d4e4e4ea631a9240735f7f82daadb4cd9266543e50a63abe599386049a830",
+    "bytes": 3354778,
+    "copies": [
+      "asta.swf"
+    ]
+  },
+  {
+    "id": "bakugo",
+    "name": "Bakugo",
+    "sha256": "74d9946ec22124689eea0ef5a91927037cda1003eba1c44ad387e499678f57f1",
+    "bytes": 8833487,
+    "copies": [
+      "bakugo.swf",
+      "personagens do apk2\\bakugo.swf"
+    ]
+  },
+  {
+    "id": "ban",
+    "name": "Ban",
+    "sha256": "6782bcf3bee899809069adfb959acb67739905441078ca53b7af9cfdf1108e38",
+    "bytes": 6124506,
+    "copies": [
+      "Ban.swf",
+      "personagens do apk2\\Ban.swf"
+    ]
+  },
+  {
+    "id": "ben_10",
+    "name": "Ben 10",
+    "sha256": "a6b0eba6b6f8a2719734375193b40a80ef99a0cdd0c2e8d734fe5ca525df098d",
+    "bytes": 9609501,
+    "copies": [
+      "Ben 10.swf"
+    ]
+  },
+  {
+    "id": "dekufullpower",
+    "name": "Dekufullpower",
+    "sha256": "304c9a26511d17d793879c67efa261ee665c170b84deac9761221b6efdc731c8",
+    "bytes": 17306773,
+    "copies": [
+      "dekufullpower.swf"
+    ]
+  },
+  {
+    "id": "dio",
+    "name": "Dio",
+    "sha256": "a3fc538b7f680ec3a727853381482db1e85c0fc10dc5ac3bc3898f9e75a9703c",
+    "bytes": 9179078,
+    "copies": [
+      "dio v2.swf",
+      "personagens do apk2\\dio v2.swf"
+    ]
+  },
+  {
+    "id": "fullbring_ichigo",
+    "name": "Fullbring Ichigo",
+    "sha256": "01a4435f4e1de95689a76a2ea3edcfcb2fe28e6ceba9b05f36e6d606f1fcbd5e",
+    "bytes": 24352987,
+    "copies": [
+      "Fullbring_Ichigo.swf",
+      "personagens do apk2\\luffy.swf"
+    ]
+  },
+  {
+    "id": "geto_jjk_0",
+    "name": "Geto JJK 0",
+    "sha256": "0ff13bfbb17ddb27099d5eec822c14f0911a6d48c05532e1055502d981341538",
+    "bytes": 14773082,
+    "copies": [
+      "Geto JJK 0.swf"
+    ]
+  },
+  {
+    "id": "goku_mui",
+    "name": "Goku Mui",
+    "sha256": "159ecc25a47de772c9cadf67696bfc95eed2d6675d7544fc89554bd5d23dfd6d",
+    "bytes": 32558864,
+    "copies": [
+      "goku_mui.swf",
+      "personagens do apk2\\Goku.swf"
+    ]
+  },
+  {
+    "id": "hidan",
+    "name": "Hidan",
+    "sha256": "7fb6a23d1ca797dc9606736a98c9a7f36c0422be7a81e13dc5088c118f44b5d8",
+    "bytes": 1700934,
+    "copies": [
+      "Hidan.swf"
+    ]
+  },
+  {
+    "id": "hisoka",
+    "name": "Hisoka",
+    "sha256": "27b2fa74cffd0ad12c293da10cac841682441a610184f1ec915fa3de71de653f",
+    "bytes": 3394520,
+    "copies": [
+      "hisoka.swf",
+      "personagens do apk2\\hisoka.swf"
+    ]
+  },
+  {
+    "id": "ichigo_tybw",
+    "name": "Ichigo Tybw",
+    "sha256": "4e5ff9b99db618948ca64979932a624eb5e71ec5ff37037665851ee55716af5c",
+    "bytes": 21189884,
+    "copies": [
+      "Ichigo_Tybw.swf"
+    ]
+  },
+  {
+    "id": "inosuke",
+    "name": "Inosuke",
+    "sha256": "5e92cbee6d7084e166be43e78e9a46f15d8d0bc90d4d83f29f8d5ea608e51047",
+    "bytes": 9700585,
+    "copies": [
+      "inosuke.swf",
+      "personagens do apk2\\Inosuke.swf"
+    ]
+  },
+  {
+    "id": "itachi_akatsuki",
+    "name": "Itachi Akatsuki",
+    "sha256": "ed5aa1e06020b7ece4024bd00b1dca55ab6ea40fbd745af6eabbdf255ff7ff43",
+    "bytes": 13980243,
+    "copies": [
+      "Itachi Akatsuki.swf"
+    ]
+  },
+  {
+    "id": "josuke",
+    "name": "Josuke",
+    "sha256": "58d29f290433ef33830a2150ea82b7cc03ca27c9e35998f34bf4e7552abc158b",
+    "bytes": 25491889,
+    "copies": [
+      "josuke.swf"
+    ]
+  },
+  {
+    "id": "kakashi_dms",
+    "name": "Kakashi Dms",
+    "sha256": "b8f6ba35b7d01caebd48635a1e366b5c6711ce3c9783e69bfaea8e6fe01045ec",
+    "bytes": 19003600,
+    "copies": [
+      "kakashi_dms.swf"
+    ]
+  },
+  {
+    "id": "kisame",
+    "name": "Kisame",
+    "sha256": "3092e88deb24bcc0cf89d66d930aaeb8f21da7f889663581d57384290071f939",
+    "bytes": 11084585,
+    "copies": [
+      "Kisame.swf",
+      "personagens do apk2\\madara.swf"
+    ]
+  },
+  {
+    "id": "kyoraku_2",
+    "name": "Kyoraku 2",
+    "sha256": "6aeacb167c600c5ad878d1e450eeedf3da2467d41bde0dcf759477f936ac212d",
+    "bytes": 3038047,
+    "copies": [
+      "Kyoraku 2.swf"
+    ]
+  },
+  {
+    "id": "levi_v2",
+    "name": "Levi V2",
+    "sha256": "078240587f87d36360c4697e1569006a79684ea9647a05576761a87873202d56",
+    "bytes": 14243089,
+    "copies": [
+      "Levi V2.swf"
+    ]
+  },
+  {
+    "id": "luffy",
+    "name": "Monkey D. Luffy",
+    "sha256": "2861689454caba96897561929a9b5c1fcadd0b7a3bf7ef0474bf042c50eb8604",
+    "bytes": 1853248,
+    "copies": [
+      "luffy.swf"
+    ]
+  },
+  {
+    "id": "minato",
+    "name": "Minato · 1",
+    "sha256": "f18daed8ac0d978b0fe8a1537691c02dd2998cfcb1974fec8c194d249b2a4fa5",
+    "bytes": 7583664,
+    "copies": [
+      "minato.swf"
+    ]
+  },
+  {
+    "id": "zenitsu",
+    "name": "Zenitsu Agatsuma",
+    "sha256": "77e536743b12f9b5a4d7db343f60e9484fcefa935519e58250d559be0843df4e",
+    "bytes": 16897602,
+    "copies": [
+      "New Zenitsu.swf"
+    ]
+  },
+  {
+    "id": "mih",
+    "name": "Enrico Pucci — Made in Heaven",
+    "sha256": "08855cb58d17988621b4cecbd3beca43c17614589325407d94e2b7e6fbbc1dae",
+    "bytes": 14759177,
+    "copies": [
+      "newmih.swf"
+    ]
+  },
+  {
+    "id": "jotaro",
+    "name": "Jotaro · 1",
+    "sha256": "ea811ccf9f4c906829da763a02fd3b6441fac0108d987effedc4495b1425ba18",
+    "bytes": 17946107,
+    "copies": [
+      "new_jotaro.swf"
+    ]
+  },
+  {
+    "id": "aizen",
+    "name": "Aizen",
+    "sha256": "e2e6624e0e3da6b99885fe60180cdfd1bde2368805a0907bd888adde45c408b6",
+    "bytes": 3591828,
+    "copies": [
+      "personagens do apk\\aizen.swf"
+    ]
+  },
+  {
+    "id": "byakuya",
+    "name": "Byakuya",
+    "sha256": "34a4f422ab6c8dd9bb942f06f79caa81b5be62f7f9f6e68682c8a1427eef22b4",
+    "bytes": 4111552,
+    "copies": [
+      "personagens do apk\\byakuya.swf"
+    ]
+  },
+  {
+    "id": "byakuya_old",
+    "name": "Byakuya Old",
+    "sha256": "19ec39b8a94ce1f0a216c86b3bf031fb216896207c65a6f63990c22955938f5c",
+    "bytes": 958842,
+    "copies": [
+      "personagens do apk\\byakuya_old.swf"
+    ]
+  },
+  {
+    "id": "chad",
+    "name": "Chad",
+    "sha256": "0c57a7b00121b80db8c73571c4f36419da1596d81c5dee98390680e25194b0aa",
+    "bytes": 769783,
+    "copies": [
+      "personagens do apk\\chad.swf"
+    ]
+  },
+  {
+    "id": "deidara",
+    "name": "Deidara",
+    "sha256": "61560145015998e710d47f5ddc72438c2e8f58d4e4811dffdaaf372dd04fc630",
+    "bytes": 849404,
+    "copies": [
+      "personagens do apk\\deidara.swf"
+    ]
+  },
+  {
+    "id": "deidara_old",
+    "name": "Deidara Old",
+    "sha256": "ebcac2cae9fe499cbe5717927241618b426675d9f2a4a0d1eea543b65433e178",
+    "bytes": 1587285,
+    "copies": [
+      "personagens do apk\\deidara_old.swf"
+    ]
+  },
+  {
+    "id": "gaara",
+    "name": "Gaara",
+    "sha256": "bfd6614a409dc4d2adf44fea629728a3c2cef8b79cdd2dd41cff2ed9d48a2cde",
+    "bytes": 2895296,
+    "copies": [
+      "personagens do apk\\gaara.swf"
+    ]
+  },
+  {
+    "id": "gaara_old",
+    "name": "Gaara Old",
+    "sha256": "fa60aa2fcdee505227e4b4995c0ad07a0487efc2ee15a9b8e2a3399e54af06a8",
+    "bytes": 689045,
+    "copies": [
+      "personagens do apk\\gaara_old.swf"
+    ]
+  },
+  {
+    "id": "gin",
+    "name": "Gin",
+    "sha256": "37f5f68b481c81af61d4ee8e0dcb762930437c31918335525d819719b33911a4",
+    "bytes": 428690,
+    "copies": [
+      "personagens do apk\\gin.swf"
+    ]
+  },
+  {
+    "id": "grimmjow",
+    "name": "Grimmjow",
+    "sha256": "6b46434f4f17e077576230805ee9df4246f8e3017e3efe38287cf4d44cc701dc",
+    "bytes": 1132794,
+    "copies": [
+      "personagens do apk\\grimmjow.swf"
+    ]
+  },
+  {
+    "id": "hinata",
+    "name": "Hinata",
+    "sha256": "f3d4a58d3a871e06d9fda6f3295dd53a7e1933857b2aecbbbe8ea533e7c1f3b7",
+    "bytes": 1651075,
+    "copies": [
+      "personagens do apk\\hinata.swf"
+    ]
+  },
+  {
+    "id": "ichigo",
+    "name": "Ichigo",
+    "sha256": "1164164ca917707e4afc16989d5c1a0eab6fb3659a42c1b895f9fa76700c6911",
+    "bytes": 1810568,
+    "copies": [
+      "personagens do apk\\ichigo.swf"
+    ]
+  },
+  {
+    "id": "ichigo_zero",
+    "name": "Ichigo Zero",
+    "sha256": "0b821a3e77867c71af08c683fb0c9acf97c84d0b2999db8ef6499e460a68915e",
+    "bytes": 1696383,
+    "copies": [
+      "personagens do apk\\ichigo_zero.swf"
+    ]
+  },
+  {
+    "id": "ikkaku",
+    "name": "Ikkaku",
+    "sha256": "1915ebf82d7e4c7d4ff8cdbf582d7ce017f9e4e0dd0977b1f673f18d28fbf5fd",
+    "bytes": 621656,
+    "copies": [
+      "personagens do apk\\ikkaku.swf"
+    ]
+  },
+  {
+    "id": "itachi",
+    "name": "Itachi",
+    "sha256": "caedb462c732b90de326cec5b2f614c28b5f4ee7974c6a68d2f30631aa47dbf1",
+    "bytes": 1544300,
+    "copies": [
+      "personagens do apk\\itachi.swf"
+    ]
+  },
+  {
+    "id": "itachi_old",
+    "name": "Itachi Old",
+    "sha256": "29fe808a886271442bf0d42f8d52737c6dc48df77a96eed1924482c1cbd050d8",
+    "bytes": 4163627,
+    "copies": [
+      "personagens do apk\\itachi_old.swf"
+    ]
+  },
+  {
+    "id": "jiraiya",
+    "name": "Jiraiya",
+    "sha256": "c3ad82fe6bde5e69972dcd699a3a63272718f4a3fadc544afb56e10fcdd6bc9f",
+    "bytes": 1326294,
+    "copies": [
+      "personagens do apk\\jiraiya.swf"
+    ]
+  },
+  {
+    "id": "juggo",
+    "name": "Juggo",
+    "sha256": "93b012bfe3ab5d1407352905c2a106a452943ef8a8d940e0a6c874a479f2f4b5",
+    "bytes": 1070239,
+    "copies": [
+      "personagens do apk\\juggo.swf"
+    ]
+  },
+  {
+    "id": "juggo_old",
+    "name": "Juggo Old",
+    "sha256": "fe9f7c456b9fdca4cab5384612495f426e1eaa4f3e5eba287651a538dd50e872",
+    "bytes": 620055,
+    "copies": [
+      "personagens do apk\\juggo_old.swf"
+    ]
+  },
+  {
+    "id": "kakashi",
+    "name": "Kakashi",
+    "sha256": "5769efd34f4308f9884787595c53b555e1db9669bd8f314ade2e762083ea5e4a",
+    "bytes": 2739365,
+    "copies": [
+      "personagens do apk\\kakashi.swf"
+    ]
+  },
+  {
+    "id": "karin",
+    "name": "Karin",
+    "sha256": "e88c40563199bc5fd5a383870d5299a0964abc0740ae0258e72f35a4ff21a796",
+    "bytes": 1524560,
+    "copies": [
+      "personagens do apk\\karin.swf"
+    ]
+  },
+  {
+    "id": "kenpachi",
+    "name": "Kenpachi",
+    "sha256": "79926e197ffaf87451449cabdc4c269c5dca45a5b74f62a2860a574c72ce1df1",
+    "bytes": 724802,
+    "copies": [
+      "personagens do apk\\kenpachi.swf"
+    ]
+  },
+  {
+    "id": "kenshin",
+    "name": "Kenshin",
+    "sha256": "8e69474eaefaaddf3daf52f9fe85d8dc4d85e6ea30c88c499be6cdd9b1f09dcd",
+    "bytes": 1424855,
+    "copies": [
+      "personagens do apk\\kenshin.swf"
+    ]
+  },
+  {
+    "id": "killerbee",
+    "name": "Killerbee",
+    "sha256": "50ff30cb0765e055baf13e0518f7de29f5c2c7cc7960364d9e28c39f7470b904",
+    "bytes": 1518260,
+    "copies": [
+      "personagens do apk\\killerbee.swf"
+    ]
+  },
+  {
+    "id": "kimimaro",
+    "name": "Kimimaro",
+    "sha256": "47f1c246f4be0afa492e8451eb0755ba8d4c56ec2a0dd366931039ce226c306b",
+    "bytes": 548136,
+    "copies": [
+      "personagens do apk\\kimimaro.swf"
+    ]
+  },
+  {
+    "id": "konan",
+    "name": "Konan",
+    "sha256": "e9154572a5af0ee791c7869e0bc05cbc583bf71f9a69e1b9112e3a33fbccc69a",
+    "bytes": 551665,
+    "copies": [
+      "personagens do apk\\konan.swf"
+    ]
+  },
+  {
+    "id": "lee",
+    "name": "Lee",
+    "sha256": "3d9613d479141b5c701158b6943c31ccd4eb4c75caf925acc6ac7f9a18aa9e88",
+    "bytes": 1168593,
+    "copies": [
+      "personagens do apk\\lee.swf"
+    ]
+  },
+  {
+    "id": "madara",
+    "name": "Madara",
+    "sha256": "427137892b0eb17bbb89c35f0d162d6b60b231161ed09b4559ac5d97063a55ee",
+    "bytes": 3833670,
+    "copies": [
+      "personagens do apk\\madara.swf"
+    ]
+  },
+  {
+    "id": "mayuri",
+    "name": "Mayuri",
+    "sha256": "46f2b92b81f2d3614a41259197c5a300943cd311d6a3c85e0870b7e46b9e44e6",
+    "bytes": 564496,
+    "copies": [
+      "personagens do apk\\mayuri.swf"
+    ]
+  },
+  {
+    "id": "minato_3573670b",
+    "name": "Minato · 2",
+    "sha256": "3573670b146aaa6d3cd2964b44a541ef287595e964d768f8708e65398374129f",
+    "bytes": 3154950,
+    "copies": [
+      "personagens do apk\\minato.swf"
+    ]
+  },
+  {
+    "id": "naruto",
+    "name": "Naruto",
+    "sha256": "a93236b0624456fd74b4a7766b9a262aa93fd1db8cfa5b656b57d5bb362192d9",
+    "bytes": 1725502,
+    "copies": [
+      "personagens do apk\\naruto.swf"
+    ]
+  },
+  {
+    "id": "naruto_hermit",
+    "name": "Naruto Hermit",
+    "sha256": "2453965de451a705df3b33dddfc08d5ef852c776c6cb41801ee5aaad375b6728",
+    "bytes": 7307764,
+    "copies": [
+      "personagens do apk\\naruto_hermit.swf"
+    ]
+  },
+  {
+    "id": "naruto_hermit_old",
+    "name": "Naruto Hermit Old",
+    "sha256": "d76c147372c45da61f3e9d0c0c75f5f097ac7bb457cc59026d47b8447adf221d",
+    "bytes": 1162080,
+    "copies": [
+      "personagens do apk\\naruto_hermit_old.swf"
+    ]
+  },
+  {
+    "id": "neji",
+    "name": "Neji",
+    "sha256": "13220cab7d9205780d34d41d1adffefe9c661fcb847fb196ef0eb32eb63597e8",
+    "bytes": 437841,
+    "copies": [
+      "personagens do apk\\neji.swf"
+    ]
+  },
+  {
+    "id": "obito",
+    "name": "Obito · 1",
+    "sha256": "92d70522977b93fe4b1a3c2d83d544d0cdc8b0c27121680584f05ab0d4f702ae",
+    "bytes": 2392183,
+    "copies": [
+      "personagens do apk\\obito.swf"
+    ]
+  },
+  {
+    "id": "obito_old",
+    "name": "Obito Old",
+    "sha256": "a9c115691f770780fb578640139a1950fd8eeb89e6ea8e30ebffbff2e1de0b72",
+    "bytes": 2045446,
+    "copies": [
+      "personagens do apk\\obito_old.swf"
+    ]
+  },
+  {
+    "id": "orihime",
+    "name": "Orihime",
+    "sha256": "1c1864068cbf849d20879d544dd804242b09b6e02dd8d89395b091bf3ab54eaa",
+    "bytes": 1476372,
+    "copies": [
+      "personagens do apk\\orihime.swf"
+    ]
+  },
+  {
+    "id": "orochimaru",
+    "name": "Orochimaru",
+    "sha256": "0aa6a9ff904a2cce276f05bb1d5574766b1c3c876d9c7fc2f43c4b558f8b0a00",
+    "bytes": 595270,
+    "copies": [
+      "personagens do apk\\orochimaru.swf"
+    ]
+  },
+  {
+    "id": "pain",
+    "name": "Pain",
+    "sha256": "7f8952f96e58159b121b0e5f1c1b46af9726b6fba07c625bd1eacb9072537996",
+    "bytes": 1990744,
+    "copies": [
+      "personagens do apk\\pain.swf"
+    ]
+  },
+  {
+    "id": "pain_old",
+    "name": "Pain Old",
+    "sha256": "410145c5409996c78e85ef78a434d7bccb1decc294bec30a493559fdca2a0029",
+    "bytes": 1394544,
+    "copies": [
+      "personagens do apk\\pain_old.swf"
+    ]
+  },
+  {
+    "id": "renji",
+    "name": "Renji",
+    "sha256": "ee11b0f1e681cdbe96dc071b0efe6969caecfadeaa190304b9d989029526ff73",
+    "bytes": 782361,
+    "copies": [
+      "personagens do apk\\renji.swf"
+    ]
+  },
+  {
+    "id": "rukia",
+    "name": "Rukia",
+    "sha256": "fbb36ddc7d0230da9151f5634a73690d1b26db803b2132c6f3867b92238314e5",
+    "bytes": 1624684,
+    "copies": [
+      "personagens do apk\\rukia.swf"
+    ]
+  },
+  {
+    "id": "sakura",
+    "name": "Sakura",
+    "sha256": "2950fb5db16387e9d0e89ca60c6cd21b880a1d940c0b9d08189a4c4fcd051e28",
+    "bytes": 596705,
+    "copies": [
+      "personagens do apk\\sakura.swf"
+    ]
+  },
+  {
+    "id": "sakura_sr",
+    "name": "Sakura Sr",
+    "sha256": "e4506db60bb3ac7f17fb6da04d587587aa1b7076bcf219d957a9d47666b57a44",
+    "bytes": 1417247,
+    "copies": [
+      "personagens do apk\\sakura_sr.swf"
+    ]
+  },
+  {
+    "id": "sasuke",
+    "name": "Sasuke",
+    "sha256": "7a81440beb1a9845c5da3fb4f811918c3ff1edcf3aba37a292aabfb80ab8fbc7",
+    "bytes": 1455245,
+    "copies": [
+      "personagens do apk\\sasuke.swf"
+    ]
+  },
+  {
+    "id": "sasuke_susanoo",
+    "name": "Sasuke Susanoo",
+    "sha256": "da054ce862bf1686daf1b13c3b843ddf76e3229038c0965a2c3a7e6853e7d5e7",
+    "bytes": 6582438,
+    "copies": [
+      "personagens do apk\\sasuke_susanoo.swf"
+    ]
+  },
+  {
+    "id": "sasuke_susanoo_old",
+    "name": "Sasuke Susanoo Old",
+    "sha256": "bae19ebd34c85db6c523b2167b74e94fd682fc5877b59e1aadefab9220ee30d6",
+    "bytes": 2217243,
+    "copies": [
+      "personagens do apk\\sasuke_susanoo_old.swf"
+    ]
+  },
+  {
+    "id": "soifon",
+    "name": "Soifon",
+    "sha256": "857bc6e7b0b568d4825ab72337344f7b161fde6432215482c87cf1831e7853c9",
+    "bytes": 1948149,
+    "copies": [
+      "personagens do apk\\soifon.swf"
+    ]
+  },
+  {
+    "id": "soifon_old",
+    "name": "Soifon Old",
+    "sha256": "643daa2029426e265d9d423b5cbfcc28d178c46a464a1d214e144026ddb7b2a4",
+    "bytes": 926687,
+    "copies": [
+      "personagens do apk\\soifon_old.swf"
+    ]
+  },
+  {
+    "id": "starrk",
+    "name": "Starrk",
+    "sha256": "15b5de55aa19c723ae8c61dfd14666e9019cd4a7b0a0aa8c2ca2a5ae505cecfd",
+    "bytes": 1787312,
+    "copies": [
+      "personagens do apk\\starrk.swf"
+    ]
+  },
+  {
+    "id": "suigetsu",
+    "name": "Suigetsu",
+    "sha256": "fc9c5c608d276b4f7044f5abbef8fee746ebb5410ccd829e8430036d91be7994",
+    "bytes": 495807,
+    "copies": [
+      "personagens do apk\\suigetsu.swf"
+    ]
+  },
+  {
+    "id": "temari",
+    "name": "Temari",
+    "sha256": "d531eab68ab7d65d643419a4d51a5274df6b298a9d8ad4c429a32c0f40884122",
+    "bytes": 560764,
+    "copies": [
+      "personagens do apk\\temari.swf"
+    ]
+  },
+  {
+    "id": "tensa",
+    "name": "Tensa",
+    "sha256": "f27010cea40ffcd63df81d214b50bb100505c1dce9e390fda2cdea123a2b4faa",
+    "bytes": 1803675,
+    "copies": [
+      "personagens do apk\\tensa.swf"
+    ]
+  },
+  {
+    "id": "toushirou",
+    "name": "Toushirou",
+    "sha256": "0e3671edb1daa417fb684037b569be558cfec1706e82e3271cc73b9ccabec037",
+    "bytes": 1131813,
+    "copies": [
+      "personagens do apk\\toushirou.swf"
+    ]
+  },
+  {
+    "id": "ulquiorra",
+    "name": "Ulquiorra",
+    "sha256": "60878b7dacefe171646e72e3efcad42f97d07a1f9e461c8a4c3c935507655096",
+    "bytes": 5879820,
+    "copies": [
+      "personagens do apk\\ulquiorra.swf"
+    ]
+  },
+  {
+    "id": "ulquiorra_old",
+    "name": "Ulquiorra Old",
+    "sha256": "8371e19450f1ed03238ddd138184674acde6339d7ef5123ad8d2a053197d9c41",
+    "bytes": 1385401,
+    "copies": [
+      "personagens do apk\\ulquiorra_old.swf"
+    ]
+  },
+  {
+    "id": "uryuu",
+    "name": "Uryuu",
+    "sha256": "ecccf8cc8ff6b192e1cc5b4c5778e9e9e5daaeca1e54f195e24e19862979b38c",
+    "bytes": 3243954,
+    "copies": [
+      "personagens do apk\\uryuu.swf"
+    ]
+  },
+  {
+    "id": "yoruichi",
+    "name": "Yoruichi",
+    "sha256": "f11aa31233176078bd00ecd29ef8e8c79a27017185365a1a2d75f75ae60769ea",
+    "bytes": 915908,
+    "copies": [
+      "personagens do apk\\yoruichi.swf"
+    ]
+  },
+  {
+    "id": "adan",
+    "name": "Adan",
+    "sha256": "9ec9315cd7b9b8014a07fb41d8c25cc3ecc98f6cc78405c47dc7afbf5557a0a6",
+    "bytes": 34884158,
+    "copies": [
+      "personagens do apk2\\Adan.swf"
+    ]
+  },
+  {
+    "id": "akaza",
+    "name": "Akaza",
+    "sha256": "29da8d36a7df5838f5ef23ef8aecf6526cd103b5fc433d7795bb2b5c2766827b",
+    "bytes": 17204007,
+    "copies": [
+      "personagens do apk2\\akaza.swf"
+    ]
+  },
+  {
+    "id": "all",
+    "name": "All",
+    "sha256": "6b060127a5fb62b50c03a2bb4556f1d31d3158bfa9cf254762ed7d3c7c46a729",
+    "bytes": 4341820,
+    "copies": [
+      "personagens do apk2\\all.swf"
+    ]
+  },
+  {
+    "id": "aruceid80",
+    "name": "Aruceid80",
+    "sha256": "7f654621a9e01a0c8dd90ed0f9a230890b8d6406779d98c55930fb2315d5361b",
+    "bytes": 7496659,
+    "copies": [
+      "personagens do apk2\\aruceid80.swf"
+    ]
+  },
+  {
+    "id": "asta_c82fe6ea",
+    "name": "Asta · 2",
+    "sha256": "c82fe6ea3277fb99c9fc8341c74431c40ab1a1643f11825818006a8be9694f63",
+    "bytes": 6103341,
+    "copies": [
+      "personagens do apk2\\asta.swf"
+    ]
+  },
+  {
+    "id": "bardocksaijayin",
+    "name": "BardockSaijayin",
+    "sha256": "0ff8daef4ab14a4aaaff324a18be9f29147bfc2d5d85b206404078928b72c1ca",
+    "bytes": 14930551,
+    "copies": [
+      "personagens do apk2\\BardockSaijayin.swf"
+    ]
+  },
+  {
+    "id": "bat_metal",
+    "name": "Bat Metal",
+    "sha256": "d35bb5733e081de6517a1440504cc84107bd500cfb6fe57e1c1068ad4232f0ff",
+    "bytes": 1053280,
+    "copies": [
+      "personagens do apk2\\bat_metal.swf"
+    ]
+  },
+  {
+    "id": "black",
+    "name": "Black",
+    "sha256": "af61cc539d8e635edd0474b8dfbd3e427a06f76cbfac29729a96b718ad1356ab",
+    "bytes": 16119807,
+    "copies": [
+      "personagens do apk2\\black.swf"
+    ]
+  },
+  {
+    "id": "deku",
+    "name": "Deku",
+    "sha256": "b3e043cfa3da78f3bf70a6fc69e005c296c51286d410af6ae96f7bdd62e388a2",
+    "bytes": 6363405,
+    "copies": [
+      "personagens do apk2\\deku.swf",
+      "personagens do apk2\\madara_2.swf"
+    ]
+  },
+  {
+    "id": "diegoau",
+    "name": "DiegoAU",
+    "sha256": "5b601a7b03c98ba5de2c08616d9d8732945948ae87d71cb8848ca4de5f58abfa",
+    "bytes": 3207805,
+    "copies": [
+      "personagens do apk2\\DiegoAU.swf"
+    ]
+  },
+  {
+    "id": "dofi",
+    "name": "Dofi",
+    "sha256": "b3a9a54f02f95b92426fcea7699ceda42c923bd3199397f228a3048ee13ac47f",
+    "bytes": 2447684,
+    "copies": [
+      "personagens do apk2\\dofi.swf"
+    ]
+  },
+  {
+    "id": "enel",
+    "name": "Enel",
+    "sha256": "3c5515aaca7a4f84f5068e30ce5cdbe2ee33afc508af120ddbd734721ed29daf",
+    "bytes": 8363194,
+    "copies": [
+      "personagens do apk2\\enel.swf"
+    ]
+  },
+  {
+    "id": "escanor",
+    "name": "Escanor",
+    "sha256": "902e3624d6dc42451b0bc690726ea48aea5f1156866fdc82b763d5d16c71df31",
+    "bytes": 10402751,
+    "copies": [
+      "personagens do apk2\\escanor.swf"
+    ]
+  },
+  {
+    "id": "fugo",
+    "name": "Fugo",
+    "sha256": "ea5f1fe37e82d08321afec669985b3c7717e974738fd23a5de2ca65a76d72fbe",
+    "bytes": 3608946,
+    "copies": [
+      "personagens do apk2\\fugo.swf"
+    ]
+  },
+  {
+    "id": "fujitora",
+    "name": "Fujitora",
+    "sha256": "d2a25b5183901f9b3cd971f72ae7077844306cfc5bd0bb75daf07d63ae5fe9f1",
+    "bytes": 5722788,
+    "copies": [
+      "personagens do apk2\\Fujitora.swf"
+    ]
+  },
+  {
+    "id": "fushiguro",
+    "name": "Fushiguro",
+    "sha256": "37ebd0a02382f6a344f3efbc793ef9f5f384be19fda2f2a1005e15d8825c308c",
+    "bytes": 11283307,
+    "copies": [
+      "personagens do apk2\\fushiguro.swf"
+    ]
+  },
+  {
+    "id": "gioger",
+    "name": "Gioger",
+    "sha256": "78ebb34e64f8ca241f9705a46b0dca0bf4d6d0ab0e4d0aed2b0cb2f003023be7",
+    "bytes": 8752590,
+    "copies": [
+      "personagens do apk2\\gioger.swf"
+    ]
+  },
+  {
+    "id": "giyuu",
+    "name": "Giyuu",
+    "sha256": "8e715655d651abf33523e6d80d7530e8963f6fa4a44b4ec34f10dd5468285b63",
+    "bytes": 26341536,
+    "copies": [
+      "personagens do apk2\\giyuu.swf"
+    ]
+  },
+  {
+    "id": "gogeta",
+    "name": "Gogeta",
+    "sha256": "8d4fedb70d453f71310428dba1533d671846108824ca63ba49e603929cc6089f",
+    "bytes": 2606963,
+    "copies": [
+      "personagens do apk2\\gogeta.swf"
+    ]
+  },
+  {
+    "id": "gogeta_ssjblue",
+    "name": "Gogeta Ssjblue",
+    "sha256": "f5b8e89e3ac4644525461ee96d2395cd381b67353f15bbac8cbc85b96c9d297a",
+    "bytes": 3091881,
+    "copies": [
+      "personagens do apk2\\Gogeta_Ssjblue.swf"
+    ]
+  },
+  {
+    "id": "gohan_ssj2",
+    "name": "Gohan Ssj2",
+    "sha256": "f29ede5e692038e98a01adf58e57bd1e61a82850093c873691fa9d734abfdbeb",
+    "bytes": 171571,
+    "copies": [
+      "personagens do apk2\\Gohan_Ssj2.swf"
+    ]
+  },
+  {
+    "id": "gojo_f1208647",
+    "name": "Gojo",
+    "sha256": "f1208647e413e86b7829abd013a1531a225cf80bb370ad02d926d3297595dc25",
+    "bytes": 34614679,
+    "copies": [
+      "personagens do apk2\\gojo.swf"
+    ]
+  },
+  {
+    "id": "gon",
+    "name": "Gon",
+    "sha256": "0c8987997068e462bc518d373b378f19b64d84263c95b52808b56d335b5dab3d",
+    "bytes": 16435552,
+    "copies": [
+      "personagens do apk2\\gon.swf"
+    ]
+  },
+  {
+    "id": "haku",
+    "name": "Haku",
+    "sha256": "4f0aae392d23d5e92f485e2d0c629f71ba0a1a12229db6cefde31aa5c2e62380",
+    "bytes": 2778385,
+    "copies": [
+      "personagens do apk2\\haku.swf",
+      "personagens do apk2\\ino.swf"
+    ]
+  },
+  {
+    "id": "hancock",
+    "name": "Hancock",
+    "sha256": "4d65a1767e28ff133a06f8ab4610118a60105c58f4a27c159bce1e73f84ff39d",
+    "bytes": 1971666,
+    "copies": [
+      "personagens do apk2\\hancock.swf"
+    ]
+  },
+  {
+    "id": "heavendio",
+    "name": "HeavenDIO",
+    "sha256": "a2b4fb4e282040a044635ec4c43da690baeaf99805d7c6190ad022d151024f7d",
+    "bytes": 15153458,
+    "copies": [
+      "personagens do apk2\\heavenDIO.swf"
+    ]
+  },
+  {
+    "id": "hiei_jaganshi",
+    "name": "Hiei Jaganshi",
+    "sha256": "1b5f99b184d3dbc04f7a63933fda3900018f23ec63f75751e3b593c83433aba5",
+    "bytes": 15727183,
+    "copies": [
+      "personagens do apk2\\Hiei Jaganshi.swf"
+    ]
+  },
+  {
+    "id": "hiei2",
+    "name": "Hiei2",
+    "sha256": "f19a04024e56599d46554b8412a56f902fb8cf7e80c0eca17285bad5b7cb870d",
+    "bytes": 569969,
+    "copies": [
+      "personagens do apk2\\hiei2.swf"
+    ]
+  },
+  {
+    "id": "hinata4ta",
+    "name": "Hinata4ta",
+    "sha256": "e8afc9717ffcdb83eb80df19048e4f0cf6952af95baa2b59447ca6817f4d53cd",
+    "bytes": 890846,
+    "copies": [
+      "personagens do apk2\\Hinata4ta.swf"
+    ]
+  },
+  {
+    "id": "hit",
+    "name": "Hit",
+    "sha256": "3dc8dbab74b4a2ed79a1714f274668d2af74ac7c902c1d1785320a5278334068",
+    "bytes": 22569518,
+    "copies": [
+      "personagens do apk2\\Hit.swf"
+    ]
+  },
+  {
+    "id": "human",
+    "name": "Human",
+    "sha256": "b1e0c8afab063082d5cf62677bf79a4ccd77b15cf2186c3680f5e250036b9cd9",
+    "bytes": 1149364,
+    "copies": [
+      "personagens do apk2\\human.swf"
+    ]
+  },
+  {
+    "id": "jo",
+    "name": "Jo",
+    "sha256": "330b06ebe6bc7c55de289a387c9f773b3f5fcf50d9ec5816ea93e4a80bb5ff0f",
+    "bytes": 4297470,
+    "copies": [
+      "personagens do apk2\\jo.swf"
+    ]
+  },
+  {
+    "id": "jotarokujo6",
+    "name": "JotaroKujo6",
+    "sha256": "ae9fc8374d9b1cea2dbb4780f348f868078905ad02ab65032539c9dcbb8418b1",
+    "bytes": 1499243,
+    "copies": [
+      "personagens do apk2\\JotaroKujo6.swf"
+    ]
+  },
+  {
+    "id": "jotarorequiem",
+    "name": "JotaroRequiem",
+    "sha256": "1d1f8e646f55d45c21e5e2062c27398b3134d053cab63453d4b62c67ba8a387f",
+    "bytes": 1721723,
+    "copies": [
+      "personagens do apk2\\JotaroRequiem.swf"
+    ]
+  },
+  {
+    "id": "jotaro_part_4",
+    "name": "Jotaro Part 4",
+    "sha256": "e59bca7b6d4d6853805a4a33fb8259cfc2c28067d36bb8aa049ae389fad7c971",
+    "bytes": 3490489,
+    "copies": [
+      "personagens do apk2\\Jotaro_Part_4.swf"
+    ]
+  },
+  {
+    "id": "kaguya",
+    "name": "Kaguya",
+    "sha256": "044f85eea109fffd505ff0353e368b08a543d90056c666049398c5e1ddfef354",
+    "bytes": 15294014,
+    "copies": [
+      "personagens do apk2\\kaguya.swf"
+    ]
+  },
+  {
+    "id": "kakashi_armor_break",
+    "name": "Kakashi Armor Break",
+    "sha256": "3104d3591042929fa948d011cd84f805922ad7c2406157ec19fb29595b71e258",
+    "bytes": 1675481,
+    "copies": [
+      "personagens do apk2\\kakashi_armor_break.swf"
+    ]
+  },
+  {
+    "id": "kaneki",
+    "name": "Kaneki",
+    "sha256": "654acd2439bce0cc18a2f8da7a89d61949506f6a1570d1bc0fcd2aeb2c04b488",
+    "bytes": 4133721,
+    "copies": [
+      "personagens do apk2\\kaneki.swf"
+    ]
+  },
+  {
+    "id": "kaneki3",
+    "name": "Kaneki3",
+    "sha256": "eaf8a4326698362f9a76e4c967ae423ff8b5923906e090e48ec3104207eeda41",
+    "bytes": 8235639,
+    "copies": [
+      "personagens do apk2\\kaneki3.swf"
+    ]
+  },
+  {
+    "id": "katakuri",
+    "name": "Katakuri",
+    "sha256": "bc420dd32eef4ef9191ab21e19d4ddccad21aba53d677099a5d5a4a2b1f55860",
+    "bytes": 340431,
+    "copies": [
+      "personagens do apk2\\katakuri.swf"
+    ]
+  },
+  {
+    "id": "kazuma",
+    "name": "Kazuma",
+    "sha256": "796ecc522c06dd4512c8b0618381ec33903507163ac442b9b256fbab913f5e48",
+    "bytes": 4155389,
+    "copies": [
+      "personagens do apk2\\Kazuma.swf"
+    ]
+  },
+  {
+    "id": "kenshiro",
+    "name": "Kenshiro",
+    "sha256": "3ee57ae1f2bed10cd7ec89878296bcb66c836cb432b39fdb902071020676cc0a",
+    "bytes": 4101083,
+    "copies": [
+      "personagens do apk2\\kenshiro.swf"
+    ]
+  },
+  {
+    "id": "killua",
+    "name": "Killua",
+    "sha256": "30da25ee1e6003b378316c1a9989f02f2ffcb7fb50c44b5561e50617beec5473",
+    "bytes": 15339627,
+    "copies": [
+      "personagens do apk2\\killua.swf"
+    ]
+  },
+  {
+    "id": "kurapika",
+    "name": "Kurapika",
+    "sha256": "d44b07e45fcdf414f4fd98aec3915f444726e50ffdc07252c8bbef14b3a94d5e",
+    "bytes": 16779617,
+    "copies": [
+      "personagens do apk2\\kurapika.swf"
+    ]
+  },
+  {
+    "id": "kurumi",
+    "name": "Kurumi",
+    "sha256": "fe1a5859c6764e255b67a9ad38f36561241279ca2bda5c5e484c0171f8d4380e",
+    "bytes": 839073,
+    "copies": [
+      "personagens do apk2\\kurumi.swf"
+    ]
+  },
+  {
+    "id": "leafa",
+    "name": "Leafa",
+    "sha256": "cc7e5133ac4a8b5365e4de9732b8233d76946b99a56afa10b7c57f7683476252",
+    "bytes": 1101867,
+    "copies": [
+      "personagens do apk2\\Leafa.swf"
+    ]
+  },
+  {
+    "id": "luffy2",
+    "name": "Luffy2",
+    "sha256": "2b962dba28bd743b2ce78a378c91aa87e6afe5885ccb0bd2e8991d5814927d9e",
+    "bytes": 1442255,
+    "copies": [
+      "personagens do apk2\\luffy2.swf"
+    ]
+  },
+  {
+    "id": "meliodas",
+    "name": "Meliodas",
+    "sha256": "b859b739ee5a3aceb09e245d738eff46766fa2a231d840e5ac4019c9b272caa2",
+    "bytes": 36115628,
+    "copies": [
+      "personagens do apk2\\Meliodas.swf"
+    ]
+  },
+  {
+    "id": "mordred",
+    "name": "Mordred",
+    "sha256": "b865480ca7d3dc5f6e00073274b2576a9b71c4f4227cf5ca6f3dd2ee47ec0dbe",
+    "bytes": 2553384,
+    "copies": [
+      "personagens do apk2\\Mordred.swf"
+    ]
+  },
+  {
+    "id": "nagato_young",
+    "name": "Nagato Young",
+    "sha256": "d18e56b46e060790b3a6eae353ed996d6173e8f6e06923f905fa39eb20dcc404",
+    "bytes": 35659658,
+    "copies": [
+      "personagens do apk2\\nagato_young.swf"
+    ]
+  },
+  {
+    "id": "new_goku_ssb",
+    "name": "New Goku SSB",
+    "sha256": "6cd9b725ec523cb8417c8cc6f39abd6e0911b3f1b62bcceeb88d11ae62b10ee5",
+    "bytes": 14681897,
+    "copies": [
+      "personagens do apk2\\New Goku SSB.swf"
+    ]
+  },
+  {
+    "id": "new_josuke",
+    "name": "New Josuke",
+    "sha256": "2fd26d0ede81f88826a916eec09995b05e7c0a653f58160bb6bca5dfac18accc",
+    "bytes": 24740160,
+    "copies": [
+      "personagens do apk2\\New josuke.swf"
+    ]
+  },
+  {
+    "id": "new_law",
+    "name": "New Law",
+    "sha256": "809c37f2e075b37227ac24586b3a44fc4528b5d4f8d752204e415abc473ff9e3",
+    "bytes": 6567626,
+    "copies": [
+      "personagens do apk2\\New Law.swf"
+    ]
+  },
+  {
+    "id": "new_ace",
+    "name": "New Ace",
+    "sha256": "d0bfce9d5183260c7947555109fbb04bdfbbfd83ab170d577169d4c5d374f93e",
+    "bytes": 2857741,
+    "copies": [
+      "personagens do apk2\\new_ace.swf"
+    ]
+  },
+  {
+    "id": "new_dio_3",
+    "name": "New DIO 3",
+    "sha256": "5640eac710894d0e58e3dc7c60ccf451076ac987307f36f9a1f1d6300011a87d",
+    "bytes": 4877619,
+    "copies": [
+      "personagens do apk2\\new_DIO_3.swf"
+    ]
+  },
+  {
+    "id": "new_eding_naruto_six_path_sage_mode_4",
+    "name": "New Eding Naruto Six Path Sage Mode 4",
+    "sha256": "aa7a3ce14a742918947db7b1591aadad990a70a6cbfe18ef97fd27814aed20c2",
+    "bytes": 16936883,
+    "copies": [
+      "personagens do apk2\\new_eding_naruto_six_path_sage_mode_4.swf"
+    ]
+  },
+  {
+    "id": "new_enrico_pucci",
+    "name": "New Enrico Pucci",
+    "sha256": "803e9da394249c32272f18fa049ea194cddbb175e9a6ce2a4789224a028414c5",
+    "bytes": 23221742,
+    "copies": [
+      "personagens do apk2\\new_enrico_pucci.swf"
+    ]
+  },
+  {
+    "id": "new_itachi",
+    "name": "New Itachi",
+    "sha256": "76f0502391de4fe63f5ff53d1fdc1082468824c707c4df977555fe502efc10db",
+    "bytes": 19883565,
+    "copies": [
+      "personagens do apk2\\New_Itachi.swf"
+    ]
+  },
+  {
+    "id": "new_jonathan",
+    "name": "New Jonathan",
+    "sha256": "f45a12e1b2d0ac9489f02041774e40c5c4a6f57a3ad884a96d372c8b7f4df1ee",
+    "bytes": 18832052,
+    "copies": [
+      "personagens do apk2\\new_jonathan.swf"
+    ]
+  },
+  {
+    "id": "new_jotaro",
+    "name": "New Jotaro · 2",
+    "sha256": "44136f45649932552ffc6ce0964cc397538e9fc3a9fcb77eb3344cb1fd9ee1e7",
+    "bytes": 14487639,
+    "copies": [
+      "personagens do apk2\\new_jotaro.swf"
+    ]
+  },
+  {
+    "id": "new_kenshin_2",
+    "name": "New Kenshin 2",
+    "sha256": "624e281ff2fe183d3290ecfbae7dace9fd9358af2ba1f3c59b81d1954fd5bedb",
+    "bytes": 4062468,
+    "copies": [
+      "personagens do apk2\\new_kenshin_2.swf"
+    ]
+  },
+  {
+    "id": "new_mihawk",
+    "name": "New Mihawk",
+    "sha256": "d3c629767c3516d41e4be429df6464ef60e0c72b7edc2941bac458a026170e17",
+    "bytes": 5259740,
+    "copies": [
+      "personagens do apk2\\new_mihawk.swf"
+    ]
+  },
+  {
+    "id": "new_nezuko",
+    "name": "New Nezuko",
+    "sha256": "e62db1436d8af29e9387f094f67765ee7ef74f4037754b0d6ffa909c2f8cb075",
+    "bytes": 6965876,
+    "copies": [
+      "personagens do apk2\\new_nezuko.swf"
+    ]
+  },
+  {
+    "id": "new_shanks",
+    "name": "New Shanks",
+    "sha256": "8f2d9b2c6e1ce8d29754410f1618ba38140fc52d47a3d7e6117940097f6a6086",
+    "bytes": 5846201,
+    "copies": [
+      "personagens do apk2\\new_Shanks.swf"
+    ]
+  },
+  {
+    "id": "new_tanjiro",
+    "name": "New Tanjiro",
+    "sha256": "c18d8486ce66d3af41d2eb1cca66ebed46369c7c03d663d7e5821dd1817aa778",
+    "bytes": 27221026,
+    "copies": [
+      "personagens do apk2\\New_Tanjiro.swf"
+    ]
+  },
+  {
+    "id": "obito_1ab496a4",
+    "name": "Obito · 2",
+    "sha256": "1ab496a42507ce26641697c2a8e191f72856245a02120135e9b71dc463c7114b",
+    "bytes": 5367874,
+    "copies": [
+      "personagens do apk2\\obito.swf"
+    ]
+  },
+  {
+    "id": "omega",
+    "name": "Omega",
+    "sha256": "7b1f9a8960768a5e53228f764b34dd68f39cb3c9d64b4070e4b676a2573bd884",
+    "bytes": 26104139,
+    "copies": [
+      "personagens do apk2\\omega.swf"
+    ]
+  },
+  {
+    "id": "perfection_cell",
+    "name": "Perfection Cell",
+    "sha256": "47740f5c72db3b942eb4f58b20109267e06f4733307d5b40aa49a2f24d9e78e9",
+    "bytes": 517516,
+    "copies": [
+      "personagens do apk2\\perfection_cell.swf"
+    ]
+  },
+  {
+    "id": "rengoku_30b6d1a4",
+    "name": "Rengoku",
+    "sha256": "30b6d1a41860b340684f7b86c26c5ea130dde3d7cbcd9d2ad99a5cc962284e9a",
+    "bytes": 21484025,
+    "copies": [
+      "personagens do apk2\\rengoku.swf"
+    ]
+  },
+  {
+    "id": "rocklee",
+    "name": "RockLee",
+    "sha256": "cdb4ce3f57b355b05a5dbd3415639f0f575fdc6a8ffe93e13405c8132fc109a3",
+    "bytes": 1452754,
+    "copies": [
+      "personagens do apk2\\RockLee.swf"
+    ]
+  },
+  {
+    "id": "saber_alter",
+    "name": "Saber Alter",
+    "sha256": "985cdb7c954ae46b31aebccc82aba3bf40afc2130d9ef7a51bd43190e48f9877",
+    "bytes": 4222532,
+    "copies": [
+      "personagens do apk2\\Saber Alter.swf"
+    ]
+  },
+  {
+    "id": "saber_alter2",
+    "name": "Saber Alter2",
+    "sha256": "c423ee23581c8b05c0d11121433b086af9b22a30d0dc92c56d25a942d1f08a66",
+    "bytes": 16576082,
+    "copies": [
+      "personagens do apk2\\saber_alter2.swf"
+    ]
+  },
+  {
+    "id": "saitama2",
+    "name": "Saitama2",
+    "sha256": "2e2888bbe7ca06e7beafa51cb0972fd4b317df0c6b87a58cd4ea6b501f7d6270",
+    "bytes": 13471225,
+    "copies": [
+      "personagens do apk2\\saitama2.swf"
+    ]
+  },
+  {
+    "id": "sakuya2",
+    "name": "Sakuya2",
+    "sha256": "699f02807f8c16ec2933104093ec9e0cb5258174104ef47aae3d22020b32910b",
+    "bytes": 3378300,
+    "copies": [
+      "personagens do apk2\\sakuya2.swf"
+    ]
+  },
+  {
+    "id": "sanji2",
+    "name": "Sanji2",
+    "sha256": "5558482a22139e3fbeb83791644318dd174dd1b528ac4a1c8bb69f2f34408d23",
+    "bytes": 39315148,
+    "copies": [
+      "personagens do apk2\\sanji2.swf"
+    ]
+  },
+  {
+    "id": "sasuke_remake",
+    "name": "Sasuke Remake",
+    "sha256": "5040031bf3ad173a14f24a9a421d8cc5e1585a0659c19e810075574e46693542",
+    "bytes": 11179167,
+    "copies": [
+      "personagens do apk2\\sasuke_remake.swf"
+    ]
+  },
+  {
+    "id": "sasuke_rinnegan_remake",
+    "name": "Sasuke Rinnegan Remake",
+    "sha256": "0965c2889895b027afbb68c2ba077da8226cb343eaa57e932b6e098a4018b9ad",
+    "bytes": 23164210,
+    "copies": [
+      "personagens do apk2\\sasuke_rinnegan_remake.swf"
+    ]
+  },
+  {
+    "id": "shadow_dio",
+    "name": "SHADOW DIO",
+    "sha256": "506f4c5c1de8a6b50d34c2830588e022e4e43c7048f49e2bda7a5652e9d6e1be",
+    "bytes": 21873747,
+    "copies": [
+      "personagens do apk2\\SHADOW DIO.swf"
+    ]
+  },
+  {
+    "id": "shinobu",
+    "name": "Shinobu",
+    "sha256": "5383ef63302ab6402419b7dfb423138d56ad0bab9564c12175e2cd5a176d33b1",
+    "bytes": 9813652,
+    "copies": [
+      "personagens do apk2\\shinobu.swf"
+    ]
+  },
+  {
+    "id": "tatsumi",
+    "name": "Tatsumi",
+    "sha256": "0a9cf5701a91c84b774ac76fcaa8683588fd2b0acd50852c773020c96893ebf6",
+    "bytes": 14828533,
+    "copies": [
+      "personagens do apk2\\tatsumi.swf"
+    ]
+  },
+  {
+    "id": "todoroki",
+    "name": "Todoroki",
+    "sha256": "6353924af946e160702d3566afbca69b8ba4bbfd40ccfe423986c439ea684c1a",
+    "bytes": 13187586,
+    "copies": [
+      "personagens do apk2\\todoroki.swf"
+    ]
+  },
+  {
+    "id": "touma_remake",
+    "name": "Touma Remake",
+    "sha256": "c9e21aa6229e8b5d1648d2685c59758c0ac88ba49308267e4153eb404156f5ea",
+    "bytes": 1806661,
+    "copies": [
+      "personagens do apk2\\Touma_remake.swf"
+    ]
+  },
+  {
+    "id": "trunks",
+    "name": "Trunks",
+    "sha256": "ba99b128f82ad7e3499c5ac6b0813b83110a91e22551ab698d5a1032b229e16f",
+    "bytes": 12715609,
+    "copies": [
+      "personagens do apk2\\trunks.swf"
+    ]
+  },
+  {
+    "id": "uzui",
+    "name": "Uzui",
+    "sha256": "5352bbf6983c8371305649514ad296f4c455c7983bea05a3308d79c589e91017",
+    "bytes": 21034482,
+    "copies": [
+      "personagens do apk2\\uzui.swf"
+    ]
+  },
+  {
+    "id": "vegeta",
+    "name": "Vegeta",
+    "sha256": "2417deff8f42e501dd4b6fb627fd5de92be839288bf8c8ac81ffd8a45f7f0cf4",
+    "bytes": 2127043,
+    "copies": [
+      "personagens do apk2\\vegeta.swf"
+    ]
+  },
+  {
+    "id": "vegeta_ssjblue",
+    "name": "Vegeta SsjBlue",
+    "sha256": "73d4334f605a57a732a3764dd635ca127a93fe29377720ac33f720df5fa5b7d5",
+    "bytes": 2514267,
+    "copies": [
+      "personagens do apk2\\Vegeta_SsjBlue.swf"
+    ]
+  },
+  {
+    "id": "vegitoultra",
+    "name": "VegitoUltra",
+    "sha256": "37456784ed0cf03c991db0490498c882e14c429a3ead4910df6832af5499baf5",
+    "bytes": 1367946,
+    "copies": [
+      "personagens do apk2\\VegitoUltra.swf"
+    ]
+  },
+  {
+    "id": "x",
+    "name": "X",
+    "sha256": "2bd067c9d4a159a59993015df3a2692d02a8c637f3a69a7b26247f8e48f27aea",
+    "bytes": 23214671,
+    "copies": [
+      "personagens do apk2\\X.swf"
+    ]
+  },
+  {
+    "id": "yami_sukehiro",
+    "name": "Yami Sukehiro",
+    "sha256": "0bed8e23b3deefdf2b1545a3694202305144da652569c5a9e050e8842087bfe8",
+    "bytes": 18149525,
+    "copies": [
+      "personagens do apk2\\yami_sukehiro.swf"
+    ]
+  },
+  {
+    "id": "yato",
+    "name": "Yato",
+    "sha256": "5fe8683988168f21b4af3a0c19a7b6f910cfc1ff42ee72660dce3c68acafb580",
+    "bytes": 2619266,
+    "copies": [
+      "personagens do apk2\\yato.swf"
+    ]
+  },
+  {
+    "id": "yuji_sukuna",
+    "name": "Yuji Sukuna",
+    "sha256": "bcd5d73e5e35b2ab882852a79f1c574156556292c89435027fb8740a7d045e1f",
+    "bytes": 17957260,
+    "copies": [
+      "personagens do apk2\\Yuji_Sukuna.swf"
+    ]
+  },
+  {
+    "id": "yusuke",
+    "name": "Yusuke",
+    "sha256": "3849177f26be7e8951620ae6f73280699432d9ea0fad7ab77daa6920f6913f3d",
+    "bytes": 8799007,
+    "copies": [
+      "personagens do apk2\\yusuke.swf"
+    ]
+  },
+  {
+    "id": "zenitsu_e0ad2272",
+    "name": "Zenitsu",
+    "sha256": "e0ad22724aa7cd7f8da2827c19348900ccfe8093cb1b1702ae95f337b5304dd3",
+    "bytes": 17162883,
+    "copies": [
+      "personagens do apk2\\zenitsu.swf"
+    ]
+  },
+  {
+    "id": "zoro_162ff8c0",
+    "name": "Zoro",
+    "sha256": "162ff8c0fb03caaf5a268d6b9f5ac26154fcbec96c8a9597eaa8d65046301286",
+    "bytes": 5520665,
+    "copies": [
+      "personagens do apk2\\Zoro.swf"
+    ]
+  },
+  {
+    "id": "rengoku",
+    "name": "Kyojuro Rengoku",
+    "sha256": "c8bfd0af7612294846f7924e28e33f4c9b6e020657cac65322a276a4f7d73fcf",
+    "bytes": 26452075,
+    "copies": [
+      "rengoku3.swf"
+    ]
+  },
+  {
+    "id": "renjiabarai",
+    "name": "RenjiAbarai",
+    "sha256": "26fea37f58a48f85a7890afe7af513ba6a7eebc44a5948299edfc1c040f0b1b0",
+    "bytes": 766208,
+    "copies": [
+      "RenjiAbarai.swf"
+    ]
+  },
+  {
+    "id": "gojo",
+    "name": "Satoru Gojo",
+    "sha256": "21324eba87c217d19705bdc483594a59a89d3e113ec75094c530965a01a96d98",
+    "bytes": 28667212,
+    "copies": [
+      "satoru.swf"
+    ]
+  },
+  {
+    "id": "unohana_2_shikai_bankai",
+    "name": "Unohana 2 (Shikai+Bankai)",
+    "sha256": "e074a7b804907d76350debca2d88bb3b06326741faf74924974a34bfeeeb6937",
+    "bytes": 7155964,
+    "copies": [
+      "Unohana 2 (Shikai+Bankai).swf"
+    ]
+  },
+  {
+    "id": "uzuid",
+    "name": "UzuiD",
+    "sha256": "afbf55fb76e72273df231b9565dfb1a999d1a5829a1fd73562cefe27fe287269",
+    "bytes": 12582646,
+    "copies": [
+      "uzuiD.swf"
+    ]
+  },
+  {
+    "id": "yamato",
+    "name": "Yamato",
+    "sha256": "98e253e43623c686eea98ebc44c50db020babf376f5a306ebbf1c3052d7c7e89",
+    "bytes": 2507528,
+    "copies": [
+      "yamato.swf"
+    ]
+  },
+  {
+    "id": "yoriichi",
+    "name": "Yoriichi",
+    "sha256": "9b0a5cfffdd325290eddb617515621e98d1f99717d5ba4316fdd375f2c6b7463",
+    "bytes": 3279227,
+    "copies": [
+      "yoriichi.swf"
+    ]
+  },
+  {
+    "id": "yuji_sukuna_form",
+    "name": "Yuji + Sukuna Form",
+    "sha256": "b6dbfc8b35a54943dd4b249b6dc87fa235dfc32a25e66dd51533d3d78b9a21c6",
+    "bytes": 23558069,
+    "copies": [
+      "Yuji_+_Sukuna_Form.swf"
+    ]
+  },
+  {
+    "id": "zoro",
+    "name": "Zoro",
+    "sha256": "ac2d3c1550395ced86df3b64e223e785d8b7701a9c14a2df2271aaed36c6ba4d",
+    "bytes": 5479244,
+    "copies": [
+      "zoro_nw.swf"
+    ]
+  }
+]
